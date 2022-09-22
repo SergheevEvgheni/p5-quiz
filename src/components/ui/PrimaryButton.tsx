@@ -10,7 +10,7 @@ const PrimaryButton: FC<{text: string, link?: string, disabled?: boolean, clickE
     to={props.link && props.link}
     endIcon={<ChevronRight />}
     sx={{
-        mt: 8,
+        mt: 6,
         color: "#fff",
         borderRadius: 0,
         pl: 4,
