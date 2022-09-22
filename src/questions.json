@@ -1,0 +1,470 @@
+[
+  {
+    "Domain": "IT Security",
+    "Question": "What is confidentiality?",
+    "A": "Assuring that data wasn't modified over time",
+    "B": "Mandating system up-time",
+    "C": "Compliance with regulations",
+    "D": "Keeping information from being accessed by unauthorized people",
+    "Correct": "d"
+  },
+  {
+    "Domain": "IT Security",
+    "Question": "What best describes the main difference between symmetric and asymmetric encryption?",
+    "A": "Symmetric encryption uses two keys, and asymmetric encryption uses one key",
+    "B": "Symmetric and asymmetric encryption both use one key",
+    "C": "Symmetric encryption uses one key, and asymmetric encryption uses a key pair.",
+    "D": "Symmetric encryption uses certificates, and asymmetric encryption uses one key.",
+    "Correct": "c"
+  },
+  {
+    "Domain": "IT Security",
+    "Question": "What best describes the procedure in which an attacker is attempting logins with credentials taken from a list?",
+    "A": "XSS",
+    "B": "Bruteforce",
+    "C": "Dictionary attack",
+    "D": "CSRF",
+    "Correct": "c"
+  },
+  {
+    "Domain": "IT Security",
+    "Question": "What best describes a whitelist?",
+    "A": "A list describing rejected values",
+    "B": "A list describing permitted values",
+    "C": "A list of values with a white background",
+    "D": "A list describing rules, not values",
+    "Correct": "b"
+  },
+  {
+    "Domain": "Math",
+    "Question": "If a + b = 7 and a - b = 13, what is the value of a?",
+    "A": 7,
+    "B": 0,
+    "C": 10,
+    "D": 6,
+    "Correct": "c"
+  },
+  {
+    "Domain": "Math",
+    "Question": "The price of a smartphone was 1000 euros in July. After a while, its price decreased by 10% and recently it increased by 20%. What is the smartphone’s price now?",
+    "A": "1200 euros",
+    "B": "1080 euros",
+    "C": "1100 euros",
+    "D": "1050 euros",
+    "Correct": "b"
+  },
+  {
+    "Domain": "Math",
+    "Question": "Knowing that the total number of books is 900 and John has 30% of them, how many books does John have?",
+    "A": 400,
+    "B": 40,
+    "C": 270,
+    "D": 275,
+    "Correct": "c"
+  },
+  {
+    "Domain": "Math",
+    "Question": "What is the missing number? 41, 36, ?, 26, 21",
+    "A": 33,
+    "B": 32,
+    "C": 31,
+    "D": 30,
+    "Correct": "c"
+  },
+  {
+    "Domain": "Network",
+    "Question": "Given the subnet 10.11.23.5/19, how many available hosts are there?",
+    "A": 8194,
+    "B": 8190,
+    "C": 8140,
+    "D": 4096,
+    "Correct": "b"
+  },
+  {
+    "Domain": "Network",
+    "Question": "The size in bits of a MAC address is:",
+    "A": 48,
+    "B": 24,
+    "C": 46,
+    "D": 12,
+    "Correct": "a"
+  },
+  {
+    "Domain": "Network",
+    "Question": "Which protocol is used when issuing a ping command?",
+    "A": "ICMP",
+    "B": "CDP",
+    "C": "ARP",
+    "D": "DNS",
+    "Correct": "a"
+  },
+  {
+    "Domain": "Network",
+    "Question": "The length of an IPv6 address is:",
+    "A": "64 bits",
+    "B": "122 bits",
+    "C": "192 bits",
+    "D": "128 bits",
+    "Correct": "d"
+  },
+  {
+    "Domain": "Network",
+    "Question": "What service do DNS servers provide?",
+    "A": "Given an IP address, they determine the name of the host that is sought.",
+    "B": "They convert domain names into IP addresses.",
+    "C": "They map individual hosts to their specific IP addresses.",
+    "D": "They verify the hostname is typed correctly.",
+    "Correct": "b"
+  },
+  {
+    "Domain": "Network",
+    "Question": "Given the 172.16.5.2/28 address, which of the following is a valid host address of this subnet?",
+    "A": "172.16.5.0",
+    "B": "172.16.5.14",
+    "C": "172.15.5.22",
+    "D": "172.15.5.31",
+    "Correct": "b"
+  },
+  {
+    "Domain": "Network",
+    "Question": "When a DHCP server is configured, which address should not be assigned to hosts?",
+    "A": "Broadcast address on the network",
+    "B": "Manually assigned address to the clients.",
+    "C": "An IP address from class A.",
+    "D": "An IP address leased to the LAN.",
+    "Correct": "a"
+  },
+  {
+    "Domain": "Network",
+    "Question": "Which of the following is not a routing protocol?",
+    "A": "EIGRP",
+    "B": "IGRP",
+    "C": "OSPF",
+    "D": "VLAN",
+    "Correct": "d"
+  },
+  {
+    "Domain": "Machine Learning",
+    "Question": "Identify the assumptions for a Linear Regression model:",
+    "A": "Heteroscedasticity, multicollinearity, auto-correlation",
+    "B": "Heteroscedasticity, multicollinearity, no auto-correlation",
+    "C": "Homoscedasticity, multicollinearity, and auto-correlation",
+    "D": "Homoscedasticity, no multicollinearity, and no auto-correlation",
+    "Correct": "d"
+  },
+  {
+    "Domain": "Machine Learning",
+    "Question": "When does regularization become necessary in a machine learning model?",
+    "A": "When the model uses cross validation.",
+    "B": "When all the coefficients in the model are significant.",
+    "C": "When the model begins to overfit.",
+    "D": "When the model does not underfit",
+    "Correct": "c"
+  },
+  {
+    "Domain": "GDPR",
+    "Question": "When does the GDPR apply?",
+    "A": "When processing is done following a law enforcement directive.",
+    "B": "When the data subject is a legal entity",
+    "C": "When your company processes the personal data of EU citizens, regardless of where the actual data processing takes place.",
+    "D": "Only to the automated processing of personal data.",
+    "Correct": "c"
+  },
+  {
+    "Domain": "GDPR",
+    "Question": "What is the process of de-associating the identity of a data subject from the personal data being processed for that data subject?",
+    "A": "Minimization",
+    "B": "Alteration",
+    "C": "Polyinstantiation",
+    "D": "Pseudonymization",
+    "Correct": "d"
+  },
+  {
+    "Domain": "GDPR",
+    "Question": "Which one of the following is NOT one of the rights for a data subject in the GDPR?",
+    "A": "The right to rectification.",
+    "B": "The right to be informed.",
+    "C": "The right of access",
+    "D": "The right to change the data processing rules.",
+    "Correct": "d"
+  },
+  {
+    "Domain": "GDPR",
+    "Question": "Is it mandatory for websites that track visitors and store their information for marketing purposes to notify them about this practice?",
+    "A": "Always",
+    "B": "No, under any circumstances",
+    "C": "It depends on the age of the visitor.",
+    "D": "Yes, but only for returning visitors.",
+    "Correct": "a"
+  },
+  {
+    "Domain": "General",
+    "Question": "Which of these is the largest?",
+    "A": "1 Terabyte",
+    "B": "1 Gigabyte",
+    "C": "1 Megabyte",
+    "D": "1 Kilobyte",
+    "Correct": "a"
+  },
+  {
+    "Domain": "General",
+    "Question": "What is Firefox?",
+    "A": "A computer brand",
+    "B": "A social networking site",
+    "C": "An internet browser",
+    "D": "An online game",
+    "Correct": "c"
+  },
+  {
+    "Domain": "IT Security",
+    "Question": "What implementation can be made during the development process to enable automated security testing?",
+    "A": "Configuration scans",
+    "B": "Fuzzing tests",
+    "C": "Code analysis",
+    "D": "All of the above.",
+    "Correct": "d"
+  },
+  {
+    "Domain": "IT Security",
+    "Question": "The goal of software security is to assure Confidentiality, Integrity, and:",
+    "A": "Availability",
+    "B": "Encryption",
+    "C": "Privacy",
+    "D": "Non-Repudiation",
+    "Correct": "a"
+  },
+  {
+    "Domain": "IT Security",
+    "Question": "What is a proper way of testing SQL injection in a web application context?",
+    "A": "Try to break existing SQL syntax for the server to execute user-inputted syntax",
+    "B": "Insert valid HTML and JavaScript code",
+    "C": "Do a template injection and observe the response in another page",
+    "D": "Test for DoS and search in logs after the test",
+    "Correct": "a"
+  },
+  {
+    "Domain": "IT Security",
+    "Question": "Regarding data confidentiality in transit, which is a proper way of web communication protocol?",
+    "A": "HTTPS",
+    "B": "SSH",
+    "C": "TELNET",
+    "D": "SMTP",
+    "Correct": "a"
+  },
+  {
+    "Domain": "IT Security",
+    "Question": "What best describes an authorization control?",
+    "A": "a mechanism that assures only privileged users have access to specific resources",
+    "B": "a mechanism that protects resources from being deleted",
+    "C": "a mechanism that ensures data is kept safe in transit",
+    "D": "a mechanism that protects data in storage",
+    "Correct": "a"
+  },
+  {
+    "Domain": "IT Security",
+    "Question": "A Denial of Service (DoS) attack breaks:",
+    "A": "Confidentiality",
+    "B": "Integrity",
+    "C": "Availability",
+    "D": "All of the above.",
+    "Correct": "c"
+  },
+  {
+    "Domain": "Bootstrap",
+    "Question": "What is Bootstrap?",
+    "A": "A JavaScript framework.",
+    "B": "A CSS framework",
+    "C": "A HTML framework.",
+    "D": "A JavaScript, CSS and HTML framework.",
+    "Correct": "d"
+  },
+  {
+    "Domain": "Bootstrap",
+    "Question": "What is the main purpose of Bootstrap?",
+    "A": "To develop responsive web projects.",
+    "B": "It has a nice flat design.",
+    "C": "To allow you to write less code.",
+    "D": "None of the above.",
+    "Correct": "a"
+  },
+  {
+    "Domain": "CSS",
+    "Question": "How would you define your CSS in order to reference a style sheet across multiple HTML pages?",
+    "A": "Inline Style",
+    "B": "Embedded Style Sheet",
+    "C": "External Style Sheet",
+    "D": "CSS is meant for only one page",
+    "Correct": "c"
+  },
+  {
+    "Domain": "Algorithms",
+    "Question": "What is the correct definition of the height of a tree?",
+    "A": "the length of the longest branch of the tree.",
+    "B": "the number of leaves in this tree.",
+    "C": "the length of the longest branch of this tree minus one.",
+    "D": "the length of the longest branch of this tree plus one.",
+    "Correct": "c"
+  },
+  {
+    "Domain": "Algorithms",
+    "Question": "What does the \"void\" word represent in Java and in C?",
+    "A": "a keyword and a type",
+    "B": "a type",
+    "C": "a keyword",
+    "D": "a constant",
+    "Correct": "c"
+  },
+  {
+    "Domain": "Algorithms",
+    "Question": "What is the best method to optimize the execution speed of a matrix product?",
+    "A": "by splitting into blocks",
+    "B": "by detecting interesting matrix properties",
+    "C": "by parallelizing the products",
+    "D": "All the above methods are correct.",
+    "Correct": "d"
+  },
+  {
+    "Domain": "Math",
+    "Question": "Find the next number in a sequence of numbers: 2 4 7 11 16.",
+    "A": 20,
+    "B": 21,
+    "C": 22,
+    "D": 23,
+    "Correct": "c"
+  },
+  {
+    "Domain": "Math",
+    "Question": "If you multiply all prime numbers smaller than 100, what would the last digit be?",
+    "A": 0,
+    "B": 1,
+    "C": 3,
+    "D": 6,
+    "Correct": "a"
+  },
+  {
+    "Domain": "Math",
+    "Question": "How many 3 digit numbers can be formed using 1, 2, 3 and 4 without repetition?",
+    "A": 6,
+    "B": 12,
+    "C": 16,
+    "D": 24,
+    "Correct": "d"
+  },
+  {
+    "Domain": "Math",
+    "Question": "An online shop sells a smartwatch for €643, 692, 685, 723 and 656 for 5 consecutive months. What must be the price in the sixth month so that it gets an average sale of €650?",
+    "A": "€500",
+    "B": "€501",
+    "C": "€567",
+    "D": "€546",
+    "Correct": "b"
+  },
+  {
+    "Domain": "Math",
+    "Question": "If the diagonal of a square is 6 cm long, what is the area of the square?",
+    "A": "18 cm²",
+    "B": "20 cm²",
+    "C": "24 cm²",
+    "D": "26 cm²",
+    "Correct": "a"
+  },
+  {
+    "Domain": "Math",
+    "Question": "What single discount is equivalent to two successive discounts of 20% and 30%?",
+    "A": "50%",
+    "B": "44%",
+    "C": "60%",
+    "D": "56%",
+    "Correct": "b"
+  },
+  {
+    "Domain": "Crypto",
+    "Question": "The Proof-of-work system selects block-producing nodes (miners) in the Bitcoin network in proportion to:",
+    "A": "Their uptime (how long they were active)",
+    "B": "The amount of bitcoins they own",
+    "C": "Their past reputation",
+    "D": "Their computing power",
+    "Correct": "d"
+  },
+  {
+    "Domain": "Crypto",
+    "Question": "What is the maximum number of bitcoins that will ever be in circulation?",
+    "A": "1 Billion",
+    "B": "21 Million",
+    "C": "10 Million",
+    "D": "There is no limit as the total supply will always increase",
+    "Correct": "b"
+  },
+  {
+    "Domain": "PHP",
+    "Question": "What is the component used to execute the command line PHP?",
+    "A": "Zend Engine",
+    "B": "APC",
+    "C": "PHP CLI",
+    "D": "mod PHP",
+    "Correct": "c"
+  },
+  {
+    "Domain": "PHP",
+    "Question": "What does \"finally\" do in PHP?",
+    "A": "It executes the code in the block, whether an exception was thrown or not.",
+    "B": "It prevents child classes from overwriting a property",
+    "C": "It prevents child classes from overwriting a method.",
+    "D": "finally\" is not a keyword in PHP.",
+    "Correct": "a"
+  },
+  {
+    "Domain": "C++",
+    "Question": "Which of the following types cannot be used to access an array element in C++?",
+    "A": "size_t",
+    "B": "int",
+    "C": "unsigned long",
+    "D": "float",
+    "Correct": "d"
+  },
+  {
+    "Domain": "UNIX",
+    "Question": "What is root in UNIX?",
+    "A": "A user with full privileges.",
+    "B": "Any user",
+    "C": "A user for WEB services",
+    "D": "A user that does not exist by default.",
+    "Correct": "a"
+  },
+  {
+    "Domain": "HTML",
+    "Question": "HTML Tags are case sensitive.",
+    "A": "Only in Internet Explorer.",
+    "B": "Only in Firefox.",
+    "C": "Yes, for all browsers.",
+    "D": "No, they are not case sensitive.",
+    "Correct": "d"
+  },
+  {
+    "Domain": "HTML",
+    "Question": "What is the correct HTML tag for inserting a line break?",
+    "A": "<break>",
+    "B": "<p>",
+    "C": "<br>",
+    "D": "<hr>",
+    "Correct": "c"
+  },
+  {
+    "Domain": "HTML",
+    "Question": "Choose the correct HTML tag to make a text bold:",
+    "A": "<bld>",
+    "B": "<bold>",
+    "C": "<bb>",
+    "D": "<b>",
+    "Correct": "d"
+  },
+  {
+    "Domain": "SQL",
+    "Question": "What are the types of SQL triggers?",
+    "A": "Insert, Delete and Update Triggers.",
+    "B": "Existence Triggers",
+    "C": "Grant and Revoke Triggers.",
+    "D": "Backup Triggers",
+    "Correct": "a"
+  }
+]
