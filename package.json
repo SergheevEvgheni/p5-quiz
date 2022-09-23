@@ -1,7 +1,7 @@
 {
   "name": "p5-quiz",
   "version": "0.1.0",
-  "homepage": "https://quiz.pentalog.com",
+  "homepage": "https://p5-quizz.herokuapp.com/",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
